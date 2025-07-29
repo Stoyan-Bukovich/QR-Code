@@ -7,3 +7,6 @@ Options list:
   - Connect to WiFi network QR code;
   - Contact/vCard QR code;
   - Simple string QR code;
+
+
+![Alt text](scree,jpg "Screen")
