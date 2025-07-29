@@ -9,4 +9,4 @@ Options list:
   - Simple string QR code;
 
 
-![Alt text](scree,jpg "Screen")
+![Alt text](screen.jpg "Screen")
